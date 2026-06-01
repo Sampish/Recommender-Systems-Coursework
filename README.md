@@ -1,5 +1,3 @@
-Dataset was too large to upload to github as there are images in the dataset.
-
 ### Complete Dataset To Run The Code
 You can find the Dataset of this code and all things needed to run it at this google Drive link:
 https://drive.google.com/drive/folders/1_xzdlUP93N51X65UMA_fw7zXX3RT6cny?usp=share_link

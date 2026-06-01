@@ -1,0 +1,25 @@
+# Essential Dependencies for Recommender System Project
+# Only includes packages imported by essential files
+
+# Core Scientific Computing (used in all files)
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning (sklearn.neighbors.NearestNeighbors, TfidfVectorizer, etc.)
+scikit-learn>=1.3.0
+
+# Deep Learning (PyTorch for SASRec model)
+torch>=2.0.0
+
+# Visualization (matplotlib, seaborn for evaluation plots)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Notebooks (for preprocessing and model training notebooks)
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# CLI Terminal Images (for displaying video thumbnails in run_RS1.py and run_RS2.py)
+term-image>=0.7.0

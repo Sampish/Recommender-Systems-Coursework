@@ -1,0 +1,14 @@
+# Dataset folders - not uploaded to GitHub
+data-5/
+KuaiRec 2-2.0/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Optional: virtual environments
+venv/
+.env/

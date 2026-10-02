@@ -1,3 +1,9 @@
+# Context-Aware Recommender (Kuaishou)
+
+A context-aware neural recommender system for short-video ranking, built on the KuaiRec dataset from the Kuaishou platform. It starts from hybrid models combining TimeSVD++ with k-nearest neighbours to leverage behavioural and metadata features, then extends both components to neural variants using trainable embeddings and an MLP to capture non-linear user–video relationships. Models are evaluated with Precision@K, NDCG and novelty to measure both ranking quality and recommendation diversity.
+
+Dataset was too large to upload to github as there are images in the dataset.
+
 ### Complete Dataset To Run The Code
 You can find the Dataset of this code and all things needed to run it at this google Drive link:
 https://drive.google.com/drive/folders/1_xzdlUP93N51X65UMA_fw7zXX3RT6cny?usp=share_link
